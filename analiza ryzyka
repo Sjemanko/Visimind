@@ -1,0 +1,50 @@
+Analiza ryzyka
+
+- Ryzyko/Szansa
+- Prawdopodobieństwo (1-4)
+- Wpływ na projekt (1-4)
+- Sposób ogarniczenia ryzyka
+- Reakcja
+
+1)
+Ryzyko - Wykruszenie się osób w teamie tworzącym oprogramowanie, 
+Prawdopodobieństwo - (1),
+Wpływ na projekt - Znaczne opóźnienie w wykonywanych zadaniach (3),
+Sposób ograniczenia ryzyka - motywacja pracowników, utrzymanie dobrej atmosfery w zespole,
+Reakcja - Poszukiwanie nowej osoby o podobnych kompetencjach.
+
+2)
+Ryzyko - Niezrozumienie wymagań postawionych przez klienta,
+Prawdopodobieństwo - (3),
+Wpływ na projekt - Tworzenie systemu niespójnego z wymaganiami klienta (2)
+Sposób ograniczenia ryzyka - częstsze spotkania z klientem, omawianie problemów na bieżąco,
+Reakcja - Wprowadzenie spotkań z klientem oraz zespołem projektowym przykładowo 2 razy w tygodniu i objaśnanie tematów związanych z systemem.
+
+3) 
+Ryzyko - Zmiana technologii,
+Prawdopodobieństwo - (2),
+Wpływ na projekt - Wydłużenie się terminu oddania skończonego produktu (3),
+Sposób ograniczenia ryzyka - podpisanie odpowiednich dokumentów określających zakres technologii w jakim system ma powstać,
+Reakcja - Przedłużenie terminu oddania systemu, nauka poza pracą (nadgodziny).
+
+4)
+Ryzyko - Ciągłe zmiany wymagań przez klienta,
+Prawdopodobieństwo - (2),
+Wpływ na projekt - Znaczne opóźnienie w wykonywanych zadaniach, złe nastroje w kontakcie klient - zespół (4),
+Sposób ograniczenia ryzyka - klarowny kontakt z klientem (uświadomienie go o ewentualnych ograniczeniach), podpisanie odpowiednich dokumentów z jasno określonymi wymaganiami,
+Reakcja - Zarządanie odpowiedniej ceny w stostunku do wymagań.
+
+5)
+Ryzyko - Błędy w kodzie,
+Prawdopodobieństwo - (4),
+Wpływ na projekt - Nieporządane działania systemu podczas testowania (1),
+Sposób ograniczenia ryzyka - Odpowiednie pisanie testów jednostkowych, integracyjnych, automatycznych, pipeline'y oraz skruplatne testowanie manualne,
+Reakcja - Zgłaszanie błędów przez testerów poprzez np. oprogramowanie Jira.
+
+6)
+Ryzyko - Wyciek danych ,
+Prawdopodobieństwo - (1),
+Wpływ na projekt - Zapłacenie kary, wyjaśnienie incydentu, możliwe zawieszenie prac nad projektem (4),
+Sposób ograniczenia ryzyka - Szkolenia w zakresie bezpieczeństwa systemów, wprowadzenie systemu zmian haseł co jakiś czas (np. miesiąc), tworzenie backup'ów,
+Reakcja - Powrót do backup'u, próba usunięcia danych, które wyciekły, z miejsc łatwo dostępnych w internecie.
+
