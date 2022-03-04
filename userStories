@@ -9,7 +9,7 @@ Features:
 
 Stories:
 1)
--   Dodanie formularza dotyczącego danych użytkownika
+-   Dodanie formularza dotyczącego danych użytkownika   
 -   Zarządzanie widocznością danych w stosunku do innych użytkowników,
 -   Możliwość dodania zdjęć, opisów, postów, komentarzy,
 -   Udostępnienie, polubienie posta,
@@ -22,7 +22,6 @@ Stories:
 -   Zapisanie fanpage'a oraz jego zawartości do bazy,
 -   Funkcjonalność Shadowbanowania poszczególnych osób  
 
-
 3) 
 -   Dodanie formularza dotyczącego tematyki grupy, konfiguracji, regulaminu panującego na grupce,
 -   Możliwość dodania/usunięcia osób do/z grupy,
@@ -34,7 +33,6 @@ Stories:
 -   Utworzenie API, które pozwoli na połączenie aplikacji pod względem np. dodawaniu postów jednocześnie na fb i innej aplikacji,
 -   Pobranie kontaktów z jednej aplikacji w celu dodania znajomych na drugiej aplikacji,
 -   Wprowadzenie prostych przekierowań pomiędzy aplikacjami,
--   
 
 5)
 -   Utworzenie bazy danych do przechowywania konwersacji,
