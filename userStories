@@ -1,0 +1,44 @@
+Epic: "Stworzenie fb"
+
+Features: 
+1) Stworzenie Tablicy użytkowników,
+2) Możliwość utworzenia fanpage'a przez użytkowników,
+3) Utworzenie tematycznych grup zamkniętych,
+4) Synchronizacja facebook'a z innymi aplikacjami,
+5) Utworzenie i połączenie czatu (synchronizacja aplikacji czatu z okienkiem przeglądania facebook'a)
+
+Stories:
+1)
+-   Dodanie formularza dotyczącego danych użytkownika
+-   Zarządzanie widocznością danych w stosunku do innych użytkowników,
+-   Możliwość dodania zdjęć, opisów, postów, komentarzy,
+-   Udostępnienie, polubienie posta,
+-   Funkcjonalność dotycząca wyświetlania polubionych stron przez innych użytkowników,
+-   Dodanie innych użytkowników do listy znajomych.
+2)
+-   Dodanie formularza utworzenia fanpage'a, tematyki
+-   Możliwość wyróżnienia aktywnych osób na fanpage'u,
+-   Wysyłanie powiadomień przy dodaniu postu przez założyciela fanpage'a,
+-   Zapisanie fanpage'a oraz jego zawartości do bazy,
+-   Funkcjonalność Shadowbanowania poszczególnych osób  
+
+
+3) 
+-   Dodanie formularza dotyczącego tematyki grupy, konfiguracji, regulaminu panującego na grupce,
+-   Możliwość dodania/usunięcia osób do/z grupy,
+-   Nadanie ról poszczególnym uczestnikom grupy,
+-   Wysyłanie powiadomień w odniesieniu do nowoutworzonych postów na grupce,
+-   Zapisanie grupki oraz jej zawartości do bazy
+
+4)
+-   Utworzenie API, które pozwoli na połączenie aplikacji pod względem np. dodawaniu postów jednocześnie na fb i innej aplikacji,
+-   Pobranie kontaktów z jednej aplikacji w celu dodania znajomych na drugiej aplikacji,
+-   Wprowadzenie prostych przekierowań pomiędzy aplikacjami,
+-   
+
+5)
+-   Utworzenie bazy danych do przechowywania konwersacji,
+-   Możliwość tworzenia grup czatowych,
+-   Wysyłanie zdjęć, filmów, emotek,
+-   Możliwość cofania wysłanych wiadomości,
+-   Utworzenie funkcjonalności do wyświetlania, korzystania okienek czatu w trakcie scrollowania Main Wall'a
