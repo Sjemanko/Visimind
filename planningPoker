@@ -1,0 +1,44 @@
+Epic: "Stworzenie fb"
+
+Wartości: 1,2,3,5,8,13,20,40,100
+
+Features: 
+1) Stworzenie Tablicy użytkowników,
+2) Możliwość utworzenia fanpage'a przez użytkowników,
+3) Utworzenie tematycznych grup zamkniętych,
+4) Synchronizacja facebook'a z innymi aplikacjami,
+5) Utworzenie i połączenie czatu (synchronizacja aplikacji czatu z okienkiem przeglądania facebook'a)
+
+Stories:
+1)
+-   Dodanie formularza dotyczącego danych użytkownika (5)
+-   Zarządzanie widocznością danych w stosunku do innych użytkowników,(3)
+-   Możliwość dodania zdjęć, opisów, postów, komentarzy, (8)
+-   Udostępnienie, polubienie posta, (5)
+-   Funkcjonalność dotycząca wyświetlania polubionych stron przez innych użytkowników, (5)
+-   Dodanie innych użytkowników do listy znajomych. (5)
+2)
+-   Dodanie formularza utworzenia fanpage'a, tematyki, (5)
+-   Możliwość wyróżnienia aktywnych osób na fanpage'u, (2)
+-   Wysyłanie powiadomień przy dodaniu postu przez założyciela fanpage'a, (8)
+-   Zapisanie fanpage'a oraz jego zawartości do bazy, (13)
+-   Funkcjonalność Shadowbanowania poszczególnych osób (8)
+
+3) 
+-   Dodanie formularza dotyczącego tematyki grupy, konfiguracji, regulaminu panującego na grupce, (5)
+-   Możliwość dodania/usunięcia osób do/z grupy, (3)
+-   Nadanie ról poszczególnym uczestnikom grupy,(5)
+-   Wysyłanie powiadomień w odniesieniu do nowoutworzonych postów na grupce, (8)
+-   Zapisanie grupki oraz jej zawartości do bazy (13)
+
+4)
+-   Utworzenie API, które pozwoli na połączenie aplikacji pod względem np. dodawaniu postów jednocześnie na fb i innej aplikacji, (20)
+-   Pobranie kontaktów z jednej aplikacji w celu dodania znajomych na drugiej aplikacji, (13)
+-   Wprowadzenie prostych przekierowań pomiędzy aplikacjami, (5)
+
+5)
+-   Utworzenie bazy danych do przechowywania konwersacji, (40)
+-   Możliwość tworzenia grup czatowych, (13)
+-   Wysyłanie zdjęć, filmów, emotek, (13)
+-   Możliwość cofania wysłanych wiadomości, (3)
+-   Utworzenie funkcjonalności do wyświetlania, korzystania okienek czatu w trakcie scrollowania Main Wall'a (20)
