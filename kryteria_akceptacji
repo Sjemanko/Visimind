@@ -1,0 +1,6 @@
+Opcja "wyszukaj" na stronie:
+- Pole wyszukiwania znajduje się w prawym górnym rogu, pod navbarem,
+- Pole posiada przycisk "szukaj",
+- Podczas wpisywania szukanej pozycji filtr sugeruje o dostępnych nazwach, pomagając użytkownikowi w wyszukaniu interesującej go pozycji,
+- Kliknięcie w wyświetloną pod wyszukiwarką, dostępną nazwe autouzupełnia pole wyszukiwania,
+- Po uzupełnieniu pola i kliknięciu "szukaj" następuje akcja wyszukiwania pozycji.
