@@ -1,0 +1,15 @@
+DoD - aplikacja dla straży miejskiej
+
+- Przejście testów jednostkowych
+- Przejście testów integracyjnych
+- Przejście testów wydajnościowych
+- Zaimplementowanie testów dymnych
+- Zaimplementowanie testów end-to-end
+- Utworzenie dokumentacji analitycznej
+- Wdrożenie środowiska testowego 
+- Utworzenie, pomyślne przejście scenariuszy testowych
+- Utworzenie dokumentacji na temat urządzeń działających w kolaboracji z systemem
+- Działanie integracji z serwisami zewnętrznymi
+- Działanie systemu na różnych przeglądarkach/systemach operacyjnych
+- Utworzenie, połączenie systemu z aplikacją mobilną
+- Przejście testów manualnych przez testerów od strony klienta
